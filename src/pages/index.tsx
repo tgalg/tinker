@@ -43,6 +43,10 @@ export default function HomePage() {
               </ArrowLink>
             </p>
 
+            <p className='mt-2 text-sm text-gray-700'>
+              TESTGING WOOOHOOOOOOOOOO
+            </p>
+
             <ButtonLink className='mt-6' href='/components' variant='light'>
               See all components
             </ButtonLink>
